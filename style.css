@@ -1,0 +1,13 @@
+.jumbotron {
+  padding-top: 7rem;
+  background-color: #95dfdf;
+}
+
+/* kalau penulisan id gunakan # */
+#projects {
+  background-color: #95dfdf;
+}
+
+section {
+  padding-top: 5rem;
+}
